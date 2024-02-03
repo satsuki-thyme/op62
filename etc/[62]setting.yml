@@ -1,7 +1,34 @@
 character:
+  - name: レゼル
+    gist:
+      - full name: レゼルレオンザーネ
+
+  - name: 
+    gist:
+      - 
+
+  - name: 
+    gist:
+      - 
+
+  - name: メルクス
+    gist:
+      - 神官
+
+  - name: 
+    gist:
+      - 
+
+  - name: トゥリゾスヴェーク
+    gist:
+      - ノルウェー語で「悲しみと裏切り」を現す tristhet og svik
+
+  - name: 
+    gist:
+      - 
 
 place:
-  - name: ライルザーク
+  - name: スルトヴィエスト
     gist:
       - 
 
@@ -26,3 +53,14 @@ place:
       - 
 
 item:
+
+etc:
+  - name: 魔狩の免許状の階位
+    gist:
+      - |
+        # 階位には以下がある
+        - 1: 最高位
+        - 2
+        - 3
+        - 4
+        - 5

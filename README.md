@@ -15,3 +15,4 @@
 - thinking-notes/[62]thinking-notes-003.md: ヒロインの誤解は何か
 - thinking-notes/[62]thinking-notes-004.md: 第3の対立は何か
 - thinking-notes/[62]thinking-notes-005.md: 妖精女王の試練は何か
+- thinking-notes/[62]thinking-notes-006.md: 姫との買い物で発生する対立は何か
