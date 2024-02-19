@@ -4,6 +4,7 @@
 - text/[62]001.txt: 芽吹く意思
 - text/[62]002.txt: 荒ぶる威力
 - text/[62]003.txt: 狂騒の序曲
+- text/[62]004.txt: 二つの怒濤
 
 ### etc.
 - etc/[62]plot-chapter-1.yml: プロット 第1章
