@@ -6,12 +6,12 @@
 - text/[62]003.txt: 狂騒の序曲
 - text/[62]004.txt: 二つの怒濤
 
-### etc.
+### その他
 - etc/[62]plot-chapter-1.yml: プロット 第1章
 - etc/[62]setting.yml:        設定
 
 ### プロット
-- 
+- plot/[62]plot-005.yml: プロット 第5話
 
 ### 思考ノート
 - thinking-notes/[62]thinking-notes-001.md: どんな物語にするか

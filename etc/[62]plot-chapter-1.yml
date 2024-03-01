@@ -1,6 +1,5 @@
 act 1:
   eps 1:
-    sub title: 
     nervousness: 3
     enemy: 一般魔物
     place: スルトヴィエスト
@@ -31,7 +30,6 @@ act 1:
       - ヒロインに嫌われる
 
   eps 2:
-    sub title: 
     nervousness: 4
     enemy: 一般魔物
     place: スルトヴィエスト
@@ -48,7 +46,6 @@ act 1:
       - ヒロインに惚れられる
 
   eps 3:
-    sub title: 
     nervousness: 5
     enemy: 一般魔物
     place: スルトヴィエスト
@@ -66,9 +63,15 @@ act 1:
     love gist:
       - ヒロインがさらに好きになる
 
-act 2:
   eps 4:
-    sub title: 妖精の国フィルプラム
+    nervousness: 5
+    enemy: 一般魔物
+    place: スルトヴィエスト
+    gist:
+      - eps 3の後半
+
+act 2:
+  eps 5:
     nervousness: 3
     enemy: -
     place: 妖精の国フィルプラム
@@ -100,12 +103,11 @@ act 2:
       - 妖精の村で宿に泊まる
       - 宿で3人で
       - 良質な魔力結晶でヒロインにネックレスを贈る
-        .お守りの効果がある => key item  => eps8
+        .お守りの効果がある => key item  => eps 9
     love gist:
       - ヒロインとの仲が深まる
 
-  eps 5:
-    sub title: 
+  eps 6:
     nervousness: 4
     enemy: 神殿教会
     place: セイルティットの街の神殿
@@ -147,8 +149,7 @@ act 2:
     love gist:
       - ヒロインとの仲がいっそう深まる
 
-  eps 6:
-    sub title: 
+  eps 7:
     nervousness: 4
     enemy: 宮廷貴族
     place: 森の道（姫の救助）
@@ -179,6 +180,7 @@ act 2:
         .零次詠唱でないため鍵言の発呼から召喚獣が出現するまで時間がかかるが待ってやる
         .召喚獣を倒すと男たちは逃げていく
       - 姫を助ける
+        __姫は21歳__
         .姫は怪我が酷い
         .姫は気絶する
         .治療する
@@ -193,8 +195,7 @@ act 2:
     love gist:
       - ハーレムみが出てくる
 
-  eps 7:
-    sub title: 姫の旅道具
+  eps 8:
     nervousness: 2
     enemy: -
     place: エックワース
@@ -238,31 +239,42 @@ act 2:
       - 姫に優しくする
       - ヒロインと喧嘩する
 
-  eps 8:
-    sub title: 
+  eps 9:
     nervousness: 4
     enemy: 一般魔物
     place: 
     gist:
+      - 森の道を分断する魔物
+        .宿がどこもいっぱい
+        .ようやく取れた宿は高い
+          .二人部屋が二つ
+          .二人部屋に3人なら3人分の料金
+          .二人部屋に一人でも二人分の料金
+        .宿場から向こうへ行けない
+        .食事に食堂へ
+        .魔物の強さを噂に聞く
+          .領兵が50騎でかかっても倒せなかった
+          .有名な魔狩が戦って帰ってこなかった
       - 魔物と戦う
+        .姫は連れてくる
+        .魔物は2体
+        .姫を結界に入れる
+        .魔物が同時に襲ってくる
+        .エリアが「こっちだ！」と言って1体を引き付けて行ってしまう
       - 二手に分かれて戦う
-      - 押されるヒロインを助ける「いつも見ているからピンチがわかる」
+        .レゼルが戦う（遊んでいる程度）
+        .姫の感想（凄い）
+        .エリアが戦う（危なげない）
+        .レゼルが戦う（そろそろ終わろうかな）
+        .エリアが戦う（魔物の必殺技でピンチになる）
+      - ピンチのヒロインを助ける「いつも見ているからピンチがわかる」
+        .レゼルが気付いて助けにいく
+        .姫：遠くに見えるレゼルとエリアを見て嫉妬する「はっ、この気持ちは……」
     love gist:
       - ヒロインのイライラが解けてラブラブになる
       - 姫に惚れられる
 
-  eps 9:
-    sub title: 村で
-    nervousness: 1
-    enemy: -
-    place: 
-    gist:
-      - 村を散策する
-    love gist:
-      - ヒロインが姫の想いに気づく
-
   eps 10:
-    sub title: 
     nervousness: 3
     enemy: 宮廷貴族
     place: 
@@ -272,7 +284,6 @@ act 2:
     love gist:
 
   eps 11:
-    sub title: 
     nervousness: 4
     enemy: 神殿教会
     place: 
@@ -282,7 +293,6 @@ act 2:
       - ヒロインと姫双方からの想いが深まる
 
   eps 12:
-    sub title: 
     nervousness: 5
     enemy: 神殿教会、宮廷貴族
     place: 
@@ -294,7 +304,6 @@ act 2:
       - ヒロインと姫双方からの想いがさらに深まる
 
   eps 13:
-    sub title: 水着回
     nervousness: 1
     enemy: -
     place: 
@@ -305,7 +314,6 @@ act 2:
 
 act 3:
   eps 14:
-    sub title: 
     nervousness: 3
     enemy: 宮廷貴族
     place: 
@@ -316,7 +324,6 @@ act 3:
       - ヒロイン、姫とはぐれる
 
   eps 15:
-    sub title: 
     nervousness: 5
     enemy: 一般魔物
     place: 
@@ -326,7 +333,6 @@ act 3:
       - ヒロインと姫が主人公を想う
 
   eps 16:
-    sub title: 
     nervousness: 5
     enemy: 宮廷貴族
     place: 
@@ -337,7 +343,6 @@ act 3:
       - ヒロインと姫の恋が深まる
 
   eps 17:
-    sub title: 宿屋で
     nervousness: 1
     enemy: -
     place: 
@@ -347,7 +352,6 @@ act 3:
       - ヒロインがセックスのためにアタックする
 
   eps 18:
-    sub title: 
     nervousness: 3
     enemy: 一般魔物
     place: 
@@ -358,7 +362,6 @@ act 3:
       - ヒロインがセックスのためにさらにアタックする
 
   eps 19:
-    sub title: 
     nervousness: 3
     enemy: -
     place: 
@@ -369,7 +372,6 @@ act 3:
       - ヒロインとセックスする
 
   eps 20:
-    sub title: 
     nervousness: 5
     enemy: 神殿教会
     place: 
@@ -380,7 +382,6 @@ act 3:
       - 姫が主人公とヒロインのセックスに勘づいて心を苦しめる
 
   eps 21:
-    sub title: 街の散策
     nervousness: 1
     enemy: -
     place: 
@@ -394,7 +395,6 @@ act 3:
       - 姫がオナニーする
 
   eps 22:
-    sub title: 
     nervousness: 2
     enemy: -
     place: 
@@ -406,7 +406,6 @@ act 3:
       - 姫が限界ギリギリまで心を苦しめる
 
   eps 23:
-    sub title: 
     nervousness: 3
     enemy: 宮廷貴族、神殿教会
     place: 王都手前
@@ -421,7 +420,6 @@ act 3:
 
 act 4:
   eps 24:
-    sub title: 
     nervousness: 4
     enemy: 宮廷貴族、神殿教会
     place: 王都手前
@@ -431,7 +429,6 @@ act 4:
       - 姫が主人公の元を離れたことを後悔する
 
   eps 25:
-    sub title: 
     nervousness: 5
     enemy: 宮廷貴族、神殿教会
     place: 王都手前
