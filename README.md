@@ -10,9 +10,6 @@
 - etc/[62]plot-chapter-1.yml: プロット 第1章
 - etc/[62]setting.yml:        設定
 
-### プロット
-- plot/[62]plot-005.yml: プロット 第5話
-
 ### 思考ノート
 - thinking-notes/[62]thinking-notes-001.md: どんな物語にするか
 - thinking-notes/[62]thinking-notes-002.md: 姫はどうして追われているか
